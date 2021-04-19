@@ -12,7 +12,7 @@
     "input",
     "svg"
   ],
-  "main": "dist/index.js",
+  "main": "src/index.tsx",
   "types": "dist/index.d.ts",
   "files": [
     "dist/"
